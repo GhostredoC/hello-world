@@ -1,2 +1,3 @@
 # hello-world
-I am a student.
+
+Hello there. I am GhostredoC from General Santos City. 
